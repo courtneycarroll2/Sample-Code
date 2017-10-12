@@ -1,4 +1,5 @@
 #! /usr/bin/python
+## Shows read counts from OTU table for different sample categories
 import sys
 
 def taxonomy(querystring, stringlist, begin2, end2, somesum, level, count):
