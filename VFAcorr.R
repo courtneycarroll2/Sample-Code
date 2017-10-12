@@ -1,6 +1,7 @@
 ## 
-#Tests for differential abundance between C1 samples from alfalfa hay vs grass hay-fed alpacas; lines 25-171 of this script were sent to me by my professor and I adjusted it for my needs.
-#Taxa with a significant diet effect are tested for correlation with volatile fatty acid abundances and plots are produced- I wrote this myself.
+	#Tests for differential abundance between C1 samples from alfalfa hay vs grass hay-fed alpacas; 
+	#lines 25-171 of this script were sent to me by my professor and I adjusted it for my needs.
+	#Taxa with a significant diet effect are tested for correlation with volatile fatty acid abundances and plots are produced- I wrote this myself.
 ##
 
 
