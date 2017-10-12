@@ -1,5 +1,5 @@
 #! /usr/bin/python
-
+	## Prepares a distance matrix for analysis by replacing sample names (column and row names) by a metadata value
 
 DMname = 'weighted_unifrac_dm.csv'
 mapfilename = 'newdeermap.csv'
