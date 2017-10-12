@@ -1,7 +1,8 @@
 ####
 ##
 #
-### Takes an OTU table and gives read count of each phylum/class/order/genus/species/OTU for each sample group ("AlfalfaC1", "GrassC1", etc.)
+    ### Takes an OTU table and gives read count of each phylum/class/order/genus/species/OTU for 
+    ### each sample group ("AlfalfaC1", "GrassC1", etc.)
 
 
 
