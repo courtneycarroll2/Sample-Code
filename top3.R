@@ -1,5 +1,5 @@
 ####
-# Reads in an OTU table and outputs the 3 most abundant taxa (phylum through OTU) for each sample group.
+	# Reads in an OTU table and outputs the 3 most abundant taxa (phylum through OTU) for each sample group.
 ####
 
 
